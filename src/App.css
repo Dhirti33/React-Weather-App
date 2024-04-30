@@ -1,0 +1,69 @@
+.app {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	background-image: linear-gradient(45deg,#003235,#00d0c9,#eefffc);
+}
+
+/* 
+.square{
+	position: absolute;
+  height: 60px;
+  width: 60px;
+	backdrop-filter:blur(5px);
+	border:2px solid rgba(0,0,0,0.5);
+  background-color: rgba(0, 128, 128, 0.39);
+	border-radius: 10px;
+	animation: animate 10s linear infinite;
+	animation-delay: calc(-1s*var(--i));
+
+}
+@keyframes animate{
+	0%,100%{
+		transform: translateY(-40px);
+    box-shadow: 10px 10px 0px rgba(0,0,0,0.2);
+
+	}
+	50%{
+		transform: translateY(40px);
+	  box-shadow: 0px 0px 0px rgba(0,0,0,0.2);
+
+	}
+}
+.square:nth-child(0){
+	bottom:-50px;
+	left: -450px;
+
+}
+.square:nth-child(1){
+	top:110px;
+	left: 150px;
+	width: 120px;
+	height: 120px;
+	z-index: 2;
+
+}
+.square:nth-child(2){
+	bottom: 50px;
+	right: 30px;
+	width: 80px;
+	height: 80px;
+	z-index: 2;
+
+}
+.square:nth-child(3){
+	bottom: 80px;
+	left: 220px;
+	width: 80px;
+	height: 80px;
+  z-index: 2;
+
+}
+.square:nth-child(4){
+	top :50px;
+	right: 140px;
+	width: 100px;
+	height: 100px;
+
+} */
